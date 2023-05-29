@@ -1,5 +1,0 @@
-hello I am learning git .
-
-my first commit .
- 
-this is second commit.
